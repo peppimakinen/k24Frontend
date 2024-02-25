@@ -1,0 +1,52 @@
+[
+    {
+      "name": "Hehe cat",
+      "description": "hehehehehe",
+      "address": "./kisut/hehe.jpg"
+    },
+    {
+       "name": "Violent cat",
+       "description": "Violent impulses kitten :)",
+       "address": "./kisut/violent_impulses.jpg" 
+    },
+    {
+       "name": "Crying cat",
+       "description": "Not funny kitten :((",
+       "address": "./kisut/cried.jfif"
+    },
+    {
+       "name": "Panic cat",
+       "description": ":00 kitten",
+       "address": "./kisut/enpanik.jpg"
+    },
+    {
+        "name": "Loading cat",
+        "description": "error kitten",
+        "address": "./kisut/loadingkitten.jpg"
+    },
+    {
+        "name": "Breathing cat",
+        "description": "lääh puuh",
+        "address": "./kisut/heavybreathing.webp"
+    },
+    {
+        "name": "HUH cat",
+        "description": "huh???",
+        "address": "./kisut/huh.webp"
+    },
+    {
+        "name": "Feelaan cat",
+        "description": "felt",
+        "address": "./kisut/me.jpg"
+    },
+    {
+        "name": "Sus cat",
+        "description": "sus",
+        "address": "./kisut/sus.jfif"
+    },
+    {
+        "name": "Homo kisu",
+        "description": "I know what you are",
+        "address": "./kisut/gay.jpg"
+    }
+]
